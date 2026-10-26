@@ -1,7 +1,5 @@
 # lsg-daw2-hello-api
 
-API REST de ejemplo con Express 5. Los datos viven en memoria (se reinician al arrancar).
-
 ```bash
 pnpm install
 pnpm dev      # http://localhost:3000
